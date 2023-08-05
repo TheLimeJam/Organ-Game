@@ -47,7 +47,7 @@ GameObject:
   - component: {fileID: 637202361835443711}
   - component: {fileID: 6909431788224832860}
   - component: {fileID: 4534824391189026510}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: moveThing
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -176,7 +176,7 @@ BoxCollider2D:
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 4294967295
   m_ExcludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -217,9 +217,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 6105836863639618611}
     m_Modifications:
+    - target: {fileID: 4611013802326438635, guid: 173cf6bb768b545439104e8fa92af395, type: 3}
+      propertyPath: m_ExcludeLayers.m_Bits
+      value: 54
+      objectReference: {fileID: 0}
+    - target: {fileID: 4611013802326438635, guid: 173cf6bb768b545439104e8fa92af395, type: 3}
+      propertyPath: m_IncludeLayers.m_Bits
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 7304776021075511945, guid: 173cf6bb768b545439104e8fa92af395, type: 3}
       propertyPath: m_Name
       value: stopper (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7304776021075511945, guid: 173cf6bb768b545439104e8fa92af395, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 9000658260679821422, guid: 173cf6bb768b545439104e8fa92af395, type: 3}
       propertyPath: m_LocalPosition.x
@@ -279,9 +291,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 6105836863639618611}
     m_Modifications:
+    - target: {fileID: 4611013802326438635, guid: 173cf6bb768b545439104e8fa92af395, type: 3}
+      propertyPath: m_ExcludeLayers.m_Bits
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4611013802326438635, guid: 173cf6bb768b545439104e8fa92af395, type: 3}
+      propertyPath: m_IncludeLayers.m_Bits
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 7304776021075511945, guid: 173cf6bb768b545439104e8fa92af395, type: 3}
       propertyPath: m_Name
       value: stopper
+      objectReference: {fileID: 0}
+    - target: {fileID: 7304776021075511945, guid: 173cf6bb768b545439104e8fa92af395, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 9000658260679821422, guid: 173cf6bb768b545439104e8fa92af395, type: 3}
       propertyPath: m_LocalPosition.x
