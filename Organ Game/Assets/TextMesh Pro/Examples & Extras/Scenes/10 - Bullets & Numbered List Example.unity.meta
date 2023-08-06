@@ -1,7 +1,14 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: bd46ac01de900384ea6fa4c33305fa47
 DefaultImporter:
   externalObjects: {}
+=======
+guid: c3f814e1d12c45568daf3dd9a86a0e61
+timeCreated: 1464165314
+licenseType: Pro
+DefaultImporter:
+>>>>>>> f712c47f381bc1ad2273e4c9bb08b4d9a0d65486
   userData: 
   assetBundleName: 
   assetBundleVariant: 

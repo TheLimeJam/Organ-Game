@@ -1,9 +1,17 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 479c7eeb0c005e14f9629c96f3516120
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
   defaultReferences: []
+=======
+guid: a4d4c76e63944cba8c7d00f56334b98c
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - TheFont: {instanceID: 0}
+>>>>>>> f712c47f381bc1ad2273e4c9bb08b4d9a0d65486
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
