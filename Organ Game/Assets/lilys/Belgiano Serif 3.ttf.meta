@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ca5b719a9197960478c50d533ba17783
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Belgiano Serif
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e841b23e319762147ad3319026e48396, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
